@@ -1,6 +1,5 @@
 # Price-Prediction-for-Car-Rental--Spatially-Aspect
 
-![](car aps.jpg)
 
 The global car rental industry is expected to reach an estimated $120 billion by 2025 with a CAGR of 6.1% from 2020 to 2025.
 However, after a long search, i was unable to access an open-source project related to it, and the data is also scarce.<br>
